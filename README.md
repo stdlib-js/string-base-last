@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@deno/mod.js';
+import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@v0.1.0-deno/mod.js';
 ```
 
 #### last( str, n )
@@ -74,7 +74,7 @@ s = last( 'foo bar', 10 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@deno/mod.js';
+import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@v0.1.0-deno/mod.js';
 
 var str = last( 'elections', 1 );
 // returns 's'
