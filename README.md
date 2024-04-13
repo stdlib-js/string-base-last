@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@esm/index.mjs';
+import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@v0.1.0-esm/index.mjs';
 ```
 
 #### last( str, n )
@@ -79,7 +79,7 @@ s = last( 'foo bar', 10 );
 <body>
 <script type="module">
 
-import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@esm/index.mjs';
+import last from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-last@v0.1.0-esm/index.mjs';
 
 var str = last( 'elections', 1 );
 // returns 's'
