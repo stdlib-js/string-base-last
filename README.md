@@ -114,6 +114,12 @@ str = last( 'good night', 5 );
 
 * * *
 
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/first`][@stdlib/string/base/first]</span><span class="delimiter">: </span><span class="description">return the first UTF-16 code unit of a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/last-code-point`][@stdlib/string/base/last-code-point]</span><span class="delimiter">: </span><span class="description">return the last Unicode code point of a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/last-grapheme-cluster`][@stdlib/string/base/last-grapheme-cluster]</span><span class="delimiter">: </span><span class="description">return the last grapheme cluster (i.e., user-perceived character) of a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -191,6 +197,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-last/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/string/base/first]: https://github.com/stdlib-js/string-base-first
+
+[@stdlib/string/base/last-code-point]: https://github.com/stdlib-js/string-base-last-code-point
+
+[@stdlib/string/base/last-grapheme-cluster]: https://github.com/stdlib-js/string-base-last-grapheme-cluster
 
 <!-- </related-links> -->
 
